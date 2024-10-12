@@ -14,12 +14,12 @@
 - **Registration:**: New users can register by providing their name, email, mobile number, password, username, and role (Admin or Normal User).
 - **Login:**: Users can log in using their username and password. Admins are directed to the admin dashboard, while normal users see their user dashboard.
 - **Admin Dashboard:**: Admins can:
-          * View a list of all companies.
-          * Edit or delete any company.
-          * Approve companies created by normal users.
+           View a list of all companies.
+           Edit or delete any company.
+           Approve companies created by normal users.
 - **Normal User Dashboard:**: Normal users can:
-          * View the list of companies.
-          * Create new companies (initial status is “Unapproved” until an admin approves them).
+           View the list of companies.
+           Create new companies (initial status is “Unapproved” until an admin approves them).
 
 
 ## Technologies
@@ -68,15 +68,16 @@ To run this project, ensure you have the following installed:
 5. **Frontend Setup:**
  Navigate to the frontend directory
 ```bash
-         cd frontend
+cd frontend
 
-         npm  install
+npm  install
 
-         npm start
+npm start
 
-6.**Open your browser and navigate to:**
+
+6. **Open your browser and navigate to:**
 ```bash
-        http://localhost:3000
+http://localhost:3000
 
 
 
