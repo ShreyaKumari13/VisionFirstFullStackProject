@@ -46,31 +46,22 @@ To run this project, ensure you have the following installed:
 3. **Update database:**
    ```bash
    create database fullstack_db
-
-   ```bash
    use fullstack_db
 
 5. **Backend Setup:**
    Navigate to the backend directory
 
    ```bash
-         cd backend
+   cd backend
 
-   ```bash
    pip install -r requirements.txt
 
-
-   
-    ```bash
    python -m venv venv
 
-    ```bash
    .\venv\Scripts\activate
 
-    ```bash
   python db_init.py
 
-    ```bash
   python app.py
 
 
