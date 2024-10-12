@@ -74,7 +74,7 @@ cd VisionFirstFullStackProject
 
   - For Windows:
     ```bash
-    .env\Scriptsctivate
+    .\venv\Scripts\activate
     ```
 
   - For macOS/Linux:
