@@ -43,13 +43,14 @@ To run this project, ensure you have the following installed:
    ```bash
    cd VisionFirstFullStackProject
 
-  3. **Update database:**
-    ```bash
+3. **Update database:**
+   ```bash
    create database fullstack_db
-    ```bash
-     use fullstack_db
 
-4. **Backend Setup:**
+   ```bash
+   use fullstack_db
+
+5. **Backend Setup:**
    Navigate to the backend directory
 
    ```bash
